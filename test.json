@@ -85,6 +85,20 @@
     },
     {
         "character": "Justia",
+        "file_id": "illust_dating7",
+        "costume": "Hot Summer Dream / DATING SIM",
+        "type": "idle",
+        "hashed_name": ""
+    },
+    {
+        "character": "Justia",
+        "file_id": "illust_dating7",
+        "costume": "Hot Summer Dream / DATING SIM",
+        "type": "cutscene",
+        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
+    },
+    {
+        "character": "Justia",
         "file_id": "char000201",
         "costume": "Knight of Blood",
         "type": "idle",
@@ -164,20 +178,6 @@
         "character": "Justia",
         "file_id": "char000296",
         "costume": "Hot Summer Dream",
-        "type": "cutscene",
-        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
-    },
-    {
-        "character": "Justia",
-        "file_id": "illust_dating7",
-        "costume": "Hot Summer Dream / DATING SIM",
-        "type": "idle",
-        "hashed_name": ""
-    },
-    {
-        "character": "Justia",
-        "file_id": "illust_dating7",
-        "costume": "Hot Summer Dream / DATING SIM",
         "type": "cutscene",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
@@ -445,7 +445,7 @@
         "file_id": "char000801",
         "costume": "Thorn of the Desert",
         "type": "cutscene",
-        "hashed_name": "d7e0aa98c7344f7a9c4d38a68d60cb4b"
+        "hashed_name": "e7996053a5c0a6863c58636ca913de0a"
     },
     {
         "character": "Rubia",
@@ -486,62 +486,6 @@
         "character": "Rubia",
         "file_id": "char000807",
         "costume": "Maid Bikini",
-        "type": "cutscene",
-        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001001",
-        "costume": "Desert Flower",
-        "type": "idle",
-        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001001",
-        "costume": "Desert Flower",
-        "type": "cutscene",
-        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001002",
-        "costume": "The Sword Queen",
-        "type": "idle",
-        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001002",
-        "costume": "The Sword Queen",
-        "type": "cutscene",
-        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001004",
-        "costume": "Admiral",
-        "type": "idle",
-        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001004",
-        "costume": "Admiral",
-        "type": "cutscene",
-        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001006",
-        "costume": "Bikini Agent",
-        "type": "idle",
-        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
-    },
-    {
-        "character": "Sylvia",
-        "file_id": "char001006",
-        "costume": "Bikini Agent",
         "type": "cutscene",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
@@ -560,58 +504,58 @@
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001101",
-        "costume": "Angel of Destruction",
+        "character": "Sylvia",
+        "file_id": "char001001",
+        "costume": "Desert Flower",
         "type": "idle",
         "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001101",
-        "costume": "Angel of Destruction",
+        "character": "Sylvia",
+        "file_id": "char001001",
+        "costume": "Desert Flower",
         "type": "cutscene",
         "hashed_name": "815e5818a5762aa094df9575ba82d45a"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001106",
-        "costume": "Medical Club",
+        "character": "Sylvia",
+        "file_id": "char001002",
+        "costume": "The Sword Queen",
         "type": "idle",
         "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001106",
-        "costume": "Medical Club",
+        "character": "Sylvia",
+        "file_id": "char001002",
+        "costume": "The Sword Queen",
         "type": "cutscene",
         "hashed_name": "815e5818a5762aa094df9575ba82d45a"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001107",
-        "costume": "Beachside Angel",
+        "character": "Sylvia",
+        "file_id": "char001004",
+        "costume": "Admiral",
         "type": "idle",
         "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001107",
-        "costume": "Beachside Angel",
+        "character": "Sylvia",
+        "file_id": "char001004",
+        "costume": "Admiral",
         "type": "cutscene",
         "hashed_name": "815e5818a5762aa094df9575ba82d45a"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001197",
-        "costume": "Milky Bikini",
+        "character": "Sylvia",
+        "file_id": "char001006",
+        "costume": "Bikini Agent",
         "type": "idle",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
     {
-        "character": "Teresse",
-        "file_id": "char001197",
-        "costume": "Milky Bikini",
+        "character": "Sylvia",
+        "file_id": "char001006",
+        "costume": "Bikini Agent",
         "type": "cutscene",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
@@ -640,6 +584,62 @@
         "character": "Teresse",
         "file_id": "illust_dating9",
         "costume": "Milky Bikini / DATING SIM",
+        "type": "cutscene",
+        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001101",
+        "costume": "Angel of Destruction",
+        "type": "idle",
+        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001101",
+        "costume": "Angel of Destruction",
+        "type": "cutscene",
+        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001106",
+        "costume": "Medical Club",
+        "type": "idle",
+        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001106",
+        "costume": "Medical Club",
+        "type": "cutscene",
+        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001107",
+        "costume": "Beachside Angel",
+        "type": "idle",
+        "hashed_name": "45525b86ec2a1c8106abe129e6087ee9"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001107",
+        "costume": "Beachside Angel",
+        "type": "cutscene",
+        "hashed_name": "815e5818a5762aa094df9575ba82d45a"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001197",
+        "costume": "Milky Bikini",
+        "type": "idle",
+        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
+    },
+    {
+        "character": "Teresse",
+        "file_id": "char001197",
+        "costume": "Milky Bikini",
         "type": "cutscene",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
@@ -743,10 +743,24 @@
     },
     {
         "character": "Loen",
+        "file_id": "illust_dating3",
+        "costume": "Celebrity Bunny / DATING SIM",
+        "type": "idle",
+        "hashed_name": ""
+    },
+    {
+        "character": "Loen",
+        "file_id": "illust_dating3",
+        "costume": "Celebrity Bunny / DATING SIM",
+        "type": "cutscene",
+        "hashed_name": "a54e776d91322772a39fa3b022d99dbf"
+    },
+    {
+        "character": "Loen",
         "file_id": "npc300501",
         "costume": "Last Hope",
         "type": "idle",
-        "hashed_name": "a5f86bf1e02ee14e9539e16da7dd5f73"
+        "hashed_name": "e1974ea04ab8c8713259bfcca2c72e01"
     },
     {
         "character": "Loen",
@@ -798,16 +812,16 @@
         "hashed_name": "1b17723cb4459ddbd0ac78f82145b0ba"
     },
     {
-        "character": "Loen",
-        "file_id": "illust_dating3",
-        "costume": "Celebrity Bunny / DATING SIM",
+        "character": "Nebris",
+        "file_id": "illust_dating1",
+        "costume": "New Hire / DATING SIM",
         "type": "idle",
         "hashed_name": ""
     },
     {
-        "character": "Loen",
-        "file_id": "illust_dating3",
-        "costume": "Celebrity Bunny / DATING SIM",
+        "character": "Nebris",
+        "file_id": "illust_dating1",
+        "costume": "New Hire / DATING SIM",
         "type": "cutscene",
         "hashed_name": "a54e776d91322772a39fa3b022d99dbf"
     },
@@ -841,6 +855,20 @@
     },
     {
         "character": "Nebris",
+        "file_id": "char061303",
+        "costume": "Laid-back Lifeguard",
+        "type": "idle",
+        "hashed_name": ""
+    },
+    {
+        "character": "Nebris",
+        "file_id": "char061303",
+        "costume": "Laid-back Lifeguard",
+        "type": "cutscene",
+        "hashed_name": "cff8666c872b0db42fdf15e2d9a9bb4c"
+    },
+    {
+        "character": "Nebris",
         "file_id": "char003303",
         "costume": "New Hire",
         "type": "idle",
@@ -854,16 +882,16 @@
         "hashed_name": "1b17723cb4459ddbd0ac78f82145b0ba"
     },
     {
-        "character": "Nebris",
-        "file_id": "illust_dating1",
-        "costume": "New Hire / DATING SIM",
+        "character": "Morpeah",
+        "file_id": "illust_dating2",
+        "costume": "Daydream Bunny / DATING SIM",
         "type": "idle",
         "hashed_name": ""
     },
     {
-        "character": "Nebris",
-        "file_id": "illust_dating1",
-        "costume": "New Hire / DATING SIM",
+        "character": "Morpeah",
+        "file_id": "illust_dating2",
+        "costume": "Daydream Bunny / DATING SIM",
         "type": "cutscene",
         "hashed_name": "a54e776d91322772a39fa3b022d99dbf"
     },
@@ -907,21 +935,7 @@
         "file_id": "char003403",
         "costume": "Apostle",
         "type": "cutscene",
-        "hashed_name": "8442b4ca0b9424fecfd8bed282400104"
-    },
-    {
-        "character": "Morpeah",
-        "file_id": "illust_dating2",
-        "costume": "Daydream Bunny / DATING SIM",
-        "type": "idle",
-        "hashed_name": ""
-    },
-    {
-        "character": "Morpeah",
-        "file_id": "illust_dating2",
-        "costume": "Daydream Bunny / DATING SIM",
-        "type": "cutscene",
-        "hashed_name": "a54e776d91322772a39fa3b022d99dbf"
+        "hashed_name": "3b17d6ebff7a44919341116da23f88db"
     },
     {
         "character": "Sacred Justia",
@@ -1411,7 +1425,7 @@
         "file_id": "char060702",
         "costume": "Code Name A",
         "type": "cutscene",
-        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
+        "hashed_name": ""
     },
     {
         "character": "Rafina",
@@ -1426,6 +1440,20 @@
         "costume": "Game Club",
         "type": "cutscene",
         "hashed_name": "547004e90cad336c6bc5295eca3bbddc"
+    },
+    {
+        "character": "Elise",
+        "file_id": "illust_dating5",
+        "costume": "Code Name O / DATING SIM",
+        "type": "idle",
+        "hashed_name": ""
+    },
+    {
+        "character": "Elise",
+        "file_id": "illust_dating5",
+        "costume": "Code Name O / DATING SIM",
+        "type": "cutscene",
+        "hashed_name": "d25a5dae11d6ca8f3128dce2abc52bb2"
     },
     {
         "character": "Elise",
@@ -1454,20 +1482,6 @@
         "costume": "Code Name O",
         "type": "cutscene",
         "hashed_name": "547004e90cad336c6bc5295eca3bbddc"
-    },
-    {
-        "character": "Elise",
-        "file_id": "illust_dating5",
-        "costume": "Code Name O / DATING SIM",
-        "type": "idle",
-        "hashed_name": ""
-    },
-    {
-        "character": "Elise",
-        "file_id": "illust_dating5",
-        "costume": "Code Name O / DATING SIM",
-        "type": "cutscene",
-        "hashed_name": "d25a5dae11d6ca8f3128dce2abc52bb2"
     },
     {
         "character": "Helena",
@@ -2017,6 +2031,20 @@
     },
     {
         "character": "Wilhelmina",
+        "file_id": "illust_dating6",
+        "costume": "Water Park Queen / DATING SIM",
+        "type": "idle",
+        "hashed_name": ""
+    },
+    {
+        "character": "Wilhelmina",
+        "file_id": "illust_dating6",
+        "costume": "Water Park Queen / DATING SIM",
+        "type": "cutscene",
+        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
+    },
+    {
+        "character": "Wilhelmina",
         "file_id": "char067601",
         "costume": "Iron Monarch",
         "type": "idle",
@@ -2040,20 +2068,6 @@
         "character": "Wilhelmina",
         "file_id": "char067603",
         "costume": "Water Park Queen",
-        "type": "cutscene",
-        "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
-    },
-    {
-        "character": "Wilhelmina",
-        "file_id": "illust_dating6",
-        "costume": "Water Park Queen / DATING SIM",
-        "type": "idle",
-        "hashed_name": ""
-    },
-    {
-        "character": "Wilhelmina",
-        "file_id": "illust_dating6",
-        "costume": "Water Park Queen / DATING SIM",
         "type": "cutscene",
         "hashed_name": "248344407abfdc037d2a34a2bcb2df5d"
     },
